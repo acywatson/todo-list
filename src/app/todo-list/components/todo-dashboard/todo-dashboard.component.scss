@@ -1,0 +1,28 @@
+.completed{
+    text-decoration: line-through;
+}
+.main-list{
+    list-style-type: none;
+    font-family: 'Overpass', sans-serif;
+    width: 50%;
+    margin: 20px auto;
+}
+.hide{
+    display: none;
+}
+.inputs-row{
+    width: 100%;
+    text-align: center;
+}
+
+.inputs-row input, .inputs-row button{
+    display: inline-block;
+}
+
+.tip{
+    width: 100%;
+    text-align: center;
+    font-family: 'Overpass', sans-serif;
+    font-style: italic;
+    font-size: 12px;
+}
