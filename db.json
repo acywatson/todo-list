@@ -112,19 +112,19 @@
     },
     {
       "name": "eat sandwich",
-      "id": 18,
+      "id": 17,
       "completed": true,
       "timeCompleted": null
     },
     {
       "name": "Make maple curls",
-      "id": 19,
+      "id": 18,
       "completed": false,
       "timeCompleted": null
     },
     {
       "name": "Eat maple curls",
-      "id": 20,
+      "id": 19,
       "completed": false,
       "timeCompleted": null,
       "isTrusted": true
